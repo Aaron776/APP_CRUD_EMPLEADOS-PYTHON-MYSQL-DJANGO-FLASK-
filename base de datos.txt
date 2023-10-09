@@ -1,0 +1,2 @@
+link video:https://www.youtube.com/watch?v=gUED5uFmyQI&list=LL&index=11&t=5936s&ab_channel=Develoteca-OscarJ.UhP%C3%A9rez
+la base de datos se llama sistema_empleados(python)
